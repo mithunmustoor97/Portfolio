@@ -1,0 +1,21 @@
+{
+  "name": "mithun-portfolio",
+  "version": "1.0.0",
+  "description": "Mithun M portfolio recreation with Motion animations",
+  "private": true,
+  "scripts": {
+    "start": "npx --yes serve . -p 5500",
+    "serve": "npx --yes serve . -p 5500"
+  },
+  "dependencies": {
+    "motion": "^12.42.2"
+  },
+  "keywords": [
+    "portfolio",
+    "motion"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "sharp": "^0.35.3"
+  }
+}
